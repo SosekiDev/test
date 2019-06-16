@@ -1,0 +1,5 @@
+UPAR TUDO	
+git add -a
+git add .
+git add *
+
