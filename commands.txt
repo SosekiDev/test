@@ -3,3 +3,5 @@ git add -a
 git add .
 git add *
 
+MSG DO QUE EU MUDEI
+git commit -m "msg" 
