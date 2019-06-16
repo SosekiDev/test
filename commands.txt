@@ -12,10 +12,20 @@ git log --graph --oneline --abbrev-commit
 
 CRIAR ATALHO
 git config --global alias <aliasname> = <command>
-git config --list (ve os alias)
+git config --list (vê todos os alias)
 
 CRIAR BRANCH
 git branch <nome>
 
-ESCOLHER BRANCH
+TROCAR BRANCH
 git checkout <nome>
+
+MERGE BRANCH
+git merge <name>
+
+CONFLITOS
+git checkout --ours <arquivo>
+ou
+git checkout --theirs <arquivo>
+e
+git add <resto que falta>b
