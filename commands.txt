@@ -28,4 +28,4 @@ git checkout --ours <arquivo>
 ou
 git checkout --theirs <arquivo>
 e
-git add <resto que falta>
+git add <resto que falta>a
