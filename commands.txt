@@ -5,3 +5,17 @@ git add *
 
 MSG DO QUE EU MUDEI
 git commit -m "msg" 
+
+MOSTRA TUDO
+git log
+git log --graph --oneline --abbrev-commit
+
+CRIAR ATALHO
+git config --global alias <aliasname> = <command>
+git config --list (ve os alias)
+
+CRIAR BRANCH
+git branch <nome>
+
+ESCOLHER BRANCH
+git checkout <nome>
