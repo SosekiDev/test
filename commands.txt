@@ -22,3 +22,10 @@ git checkout <nome>
 
 MERGE BRANCH
 git merge <name>
+
+CONFLITOS
+git checkout --ours <arquivo>
+ou
+git checkout --theirs <arquivo>
+e
+git add <resto que falta>
